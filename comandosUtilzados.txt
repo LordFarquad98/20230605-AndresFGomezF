@@ -1,12 +1,3 @@
-  658  clear
-  659  grep -i the movies.csv
-  660  clear
-  661  grep -i the movies.csv | less
-  662  clear
-  663  grep -c the 
-  664  grep -c the movies.csd
-  665  grep -c the movies.csv
-  666  grep -ci the movies.csv
   667  grep -vi towers movies.csv 
   668  grep -vi towers movies.csv > sintowers.txt
   669  ls
@@ -998,3 +989,12 @@
  1655  ls
  1656  mv comandos.txt comandosUtilzados.txt
  1657  history > comandosUtilzados.txt 
+ 1658  cat comandosUtilizados.txt
+ 1659  ls
+ 1660  cat comandosUtilzados.txt 
+ 1661  git status
+ 1662  git commit -m "commit 04 de AndresFGomezF"
+ 1663  git add .
+ 1664  git commit -m "commit 04 de AndresFGomezF"
+ 1665  git push origin master
+ 1666  history > comandosUtilzados.txt 
