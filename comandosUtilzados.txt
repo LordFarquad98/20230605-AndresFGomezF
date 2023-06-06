@@ -1,0 +1,1000 @@
+  658  clear
+  659  grep -i the movies.csv
+  660  clear
+  661  grep -i the movies.csv | less
+  662  clear
+  663  grep -c the 
+  664  grep -c the movies.csd
+  665  grep -c the movies.csv
+  666  grep -ci the movies.csv
+  667  grep -vi towers movies.csv 
+  668  grep -vi towers movies.csv > sintowers.txt
+  669  ls
+  670  cat sintowers.txt 
+  671  rm sintowers.txt 
+  672  ls
+  673  wc movies.csv 
+  674  clear
+  675  ip config
+  676  if congif; ifconfig
+  677  ifconfig
+  678  ping www.google.com
+  679  clear
+  680  curl www.google.com
+  681  clear
+  682  wget www.google.com 
+  683  ls
+  684  rm index.html 
+  685  ls
+  686  traceroute www.facebook.com
+  687  tracerout www.google.com
+  688  sud apt install tracerout
+  689  sudo apt install tracerout
+  690  netstat -i
+  691  sudo apt install traceroute
+  692  traceroute www.facebook.com
+  693  traceroute www.google.com
+  694  mkdir toCompress
+  695  cd toCompress
+  696  touch file1 file2 file 3
+  697  cd ..
+  698  tree toCompress/
+  699  sudo apt install tree
+  700  tree toCompress/
+  701  clear
+  702  tar -cvf toCompress.tar toCompress
+  703  ls
+  704  cd toCompress.tar
+  705  toCompress.tar
+  706  cat toCompress.tar
+  707  tar -cvzf toCompress.tar.gz toCompress
+  708  ls
+  709  rm -r toCompress
+  710  tar -xzvf Tocmpress.tar.gz
+  711  tar -xzvf Tocompress.tar.gz
+  712  tar -xzvf toCompress.tar.gz
+  713  ls
+  714  cd toCompress/
+  715  ls
+  716  cd ..
+  717  sudo apt install zip
+  718  clear
+  719  ls
+  720  zip -r toCompresszip toCompress
+  721  ls
+  722  rm -r toCompress.tar; toCompress.tar.gz; toCompresszip.zip
+  723  ls
+  724  code
+  725  sudo snap install --classic code
+  726  wich code
+  727  sudo apt install code
+  728  sudo apt install ./vscode.deb
+  729  sudo apt install vscode
+  730  sudo apt install vscodedeb
+  731  sudo apt install vscode.deb
+  732  sudo apt update
+  733  sudo apt install snapd
+  734  sudo snap install code --classic
+  735  sudo snap install code
+  736  sudo snap install vscode
+  737  sudo apt install code 
+  738  clear
+  739  code .
+  740  code
+  741  code .
+  742  code.
+  743  code .
+  744  which code
+  745  which bin
+  746  which obs
+  747  echo which code
+  748  find code
+  749  which anfego13
+  750  ls
+  751  find ./-name *.txt
+  752  find ./ -name *.txt
+  753  find /home code
+  754  cd ..
+  755  cd
+  756  cd ..
+  757  ls
+  758  path
+  759  find /bin *code
+  760  fin ./ code
+  761  find ./ code
+  762  cd ~
+  763  ls
+  764  cd bin
+  765  ls
+  766  cd ..
+  767  ls
+  768  find /bin code
+  769  grep Towes movies.csv
+  770  cd .. 
+  771  cd ..
+  772  ls
+  773  cd sys
+  774  ls
+  775  cd ..
+  776  cd root ..
+  777  cd root
+  778  su root
+  779  cd ~
+  780  ls
+  781  clear
+  782  ls -l
+  783  cd Desarrollo 
+  784  ln -s Documents/Dev Desarollo 
+  785  cd Desarrollo
+  786  ls
+  787  ls -l 
+  788  ls
+  789  rm -r Dev
+  790  cd Desarollo
+  791  ls
+  792  cd Desarollo
+  793  cd Datos
+  794  cd ..
+  795  rm -r Desarollo
+  796  printenv
+  797  echo $HOME
+  798  cd Documents/Dev
+  799  ls
+  800  cd 
+  801  ls
+  802  cd ..
+  803  ls
+  804  cd ..
+  805  ls
+  806  cd ..
+  807  ls
+  808  cd ~
+  809  ls
+  810  clear
+  811  code .bashrc
+  812  sudoo apt install code
+  813  sudo apt install code
+  814  su root
+  815  sudo apt upgrade
+  816  sudo apt update
+  817  sudo apt upgrade 
+  818  clear
+  819  ps
+  820  cat & ls
+  821  clear
+  822  ps
+  823  cat & ls
+  824  clear
+  825  ps
+  826  kill 1334
+  827  ps
+  828  clear
+  829  top
+  830  kill 9
+  831  kill 1344
+  832  sudo kill 1
+  833  cat > mi_nota.txt
+  834  jobs
+  835  fg 1
+  836  echo mi_nota.txt
+  837  ls
+  838  cat mi_nota.txt
+  839  google-chrome-stable
+  840  jobs
+  841  bg 1
+  842  jobs
+  843  top
+  844  fg 1
+  845  jobs
+  846  clear
+  847  vim
+  848  cim index.html
+  849  vim index.html
+  850  fg 1
+  851  cat index.html 
+  852  echo index.html 
+  853  vim prueba.py
+  854  cat prueba.py 
+  855  ls
+  856  rm index.html & rm mi_nota.txt & rm prueba.py
+  857  ls
+  858  clear
+  859  sudo aptinstall tilix
+  860  google-chrome-stable
+  861  clear
+  862  sudo apt install tilix
+  863  clear
+  864  ls
+  865  clear
+  866  sudo apt install zsh
+  867  clear
+  868  ls
+  869  tail -lines 5 movies.csv
+  870  tail --help
+  871  clear
+  872  ls
+  873  tail -n 5 movies.csv
+  874  touch hola.txt
+  875  ls
+  876  echo HOME
+  877  echo $HOME
+  878  clear
+  879  man cat
+  880  pwd
+  881  cd ..
+  882  pwd
+  883  cd /home
+  884  cd ~
+  885  echo env
+  886  cat evn
+  887  cat env
+  888  env > environment.txt
+  889  ls
+  890  echo environment.txt 
+  891  cat environment.txt 
+  892  env
+  893  clear
+  894  env
+  895  clear
+  896  ps
+  897  top
+  898  clear
+  899  ls *.txt
+  900  cat Datos.txt
+  901  grep -c hola
+  902  gti init
+  903  clear
+  904  atp-get 
+  905  apt-get
+  906  clear
+  907  apt-get install git
+  908  sudo apt-get install git
+  909  git
+  910  git --version
+  911  pwd
+  912  apt get upgrade 
+  913  sudo apt get upgrade
+  914  sugo apt -get update
+  915  sudo apt get update
+  916  apt --help
+  917  man apt
+  918  sudo apt upgrade
+  919  sudo apt update
+  920  clearo
+  921  clear
+  922  code .
+  923  clear
+  924  code .
+  925  git
+  926  clear
+  927  pwd
+  928  clear
+  929  git init
+  930  ls
+  931  rm environment.txt 
+  932  rm Datos.txt
+  933  rm hola.txt 
+  934  ls
+  935  cd bin
+  936  ls
+  937  cd ..
+  938  ls -al
+  939  google-chrome-stable
+  940  clear
+  941  ls -a
+  942  clear
+  943  ping www.facebook.com
+  944  ls
+  945  cd ~
+  946  ls
+  947  cd /c
+  948  pwd
+  949  mkdir proyecto1
+  950  ls
+  951  clear
+  952  cd projecto1
+  953  cd proyecto1
+  954  touch vacio.txt
+  955  echo hola > vacio.txt
+  956  cat vacio.txt 
+  957  clear
+  958  rm vacio.txt 
+  959  ls
+  960  clear
+  961  rm --help
+  962  clear
+  963  pwd
+  964  git init
+  965  ls -al
+  966  echo hola > touch texto.txt
+  967  ls
+  968  rm touch
+  969  echo hola | touch texto.txt
+  970  ls
+  971  cat texto.txt 
+  972  echo hola
+  973  echo hola > texto.txt 
+  974  ls
+  975  cat texto.txt 
+  976  git status
+  977  git add texto.txt 
+  978  git status
+  979  gti commit -m "Este fue mi primer commit 30 marzode 2023" 
+  980  git commit -m "Este fue mi primer commit 30 marzode 2023" 
+  981  git config --list
+  982  git config --global user.name "LordFarquad98"
+  983  git config --list
+  984  gti commit -m "Este fue mi primer commit 30 marzode 2023" 
+  985  git commit -m "Este fue mi primer commit 30 marzode 2023" 
+  986  git config --global user.name "anfego13"
+  987  git commit -m "Este fue mi primer commit 30 marzode 2023" 
+  988  git commit -m "Este fue mi primer commit" 
+  989  echo cambios extraños que hay en mí >> texto.txt 
+  990  git status
+  991  git commit -m "Cambios al archivo texto.txt" 
+  992  git add texto.txt
+  993  git commit -m "Cambios al archivo texto.txt" 
+  994  git config --global user.name "LordFarquad98"
+  995  git log texto.txt
+  996  echo y no hay duda alguna >> texto.txt 
+  997  git add texto.txt 
+  998  git commit -m "segunda parte de la canción" 
+  999  git log texto.txt
+ 1000  git show texto.txt
+ 1001  ld
+ 1002  ls
+ 1003  code
+ 1004  code texto.txt 
+ 1005  git add .
+ 1006  git commit -m "solo seguí con la canción"
+ 1007  git log texto.txt
+ 1008  clear
+ 1009  history
+ 1010  git show texto.txt
+ 1011  clear
+ 1012  git add .
+ 1013  git commit 
+ 1014  git show texto.txt
+ 1015  clear
+ 1016  git add.
+ 1017  git add .
+ 1018  git commit -m "firme esa canción"
+ 1019  git show texto.txt
+ 1020  clear
+ 1021  git log texto.txt
+ 1022  git diff 69c99cdcde98227a4cc1255976b1ff5b15bd9890 b01f88c9bc81d0e096af2a8422162ed9e3c686a2
+ 1023  clear
+ 1024  sudo apt update
+ 1025  sudo apt upgrade
+ 1026  git init
+ 1027  ls
+ 1028  cd proyecto1
+ 1029  git log
+ 1030  touch index.html
+ 1031  google-chrome-stable
+ 1032  ls
+ 1033  vs .
+ 1034  code .
+ 1035  chromium index.html
+ 1036  google-chrome-stable index.html
+ 1037  git status
+ 1038  git add .
+ 1039  git status
+ 1040  mkdir css
+ 1041  cd css
+ 1042  touch estilos.css
+ 1043  code .
+ 1044  cd ..
+ 1045  code .
+ 1046  git status
+ 1047  google-chrome-stable index.html
+ 1048  git status
+ 1049  git diff
+ 1050  git add .
+ 1051  git status
+ 1052  google-chrome-stable index.html
+ 1053  git commit -m "Arranco mi proyeto con HTML y css"
+ 1054  git status
+ 1055  git log
+ 1056  google-chrome-stable index.html
+ 1057  GIT ADD .
+ 1058  git add .
+ 1059  git status
+ 1060  google-chrome-stable index.html
+ 1061  sudo apt update
+ 1062  sudo apt upgrade
+ 1063  ls
+ 1064  cd proyecto1
+ 1065  code .
+ 1066  git init
+ 1067  git status
+ 1068  git commit -m "cambios en estilos de sintaxis"
+ 1069  git add .
+ 1070  git status
+ 1071  git commit -m "titulo de la canción"
+ 1072  git log
+ 1073  git log -status
+ 1074  git log --status
+ 1075  git checkout commit b01f88c9bc81d0e096af2a8422162ed9e3c686a2 texto.txt
+ 1076  git checkout b01f88c9bc81d0e096af2a8422162ed9e3c686a2 texto.txt
+ 1077  git master texto.txt
+ 1078  git checkout master texto.txt
+ 1079  git log --stat
+ 1080  google-chrome-stable index.html
+ 1081  git status
+ 1082  git commit -a 
+ 1083  git log
+ 1084  git log --stat
+ 1085  git status
+ 1086  git commit -a
+ 1087  git commit -am
+ 1088  git commit -am "cambios en la versión master"
+ 1089  ZZZ
+ 1090  git log
+ 1091  git commit .a
+ 1092  git commit -a
+ 1093  git rm 
+ 1094  git rm
+ 1095  git rm --cached
+ 1096  git init
+ 1097  git log
+ 1098  git status 
+ 1099  cd proyecto1
+ 1100  git status
+ 1101  git commit -am
+ 1102  git commit -am "cambis en la versión master"
+ 1103  git log --stat
+ 1104  git status
+ 1105  git show
+ 1106  clear
+ 1107  git branch cabecera
+ 1108  git status
+ 1109  git show
+ 1110  clear
+ 1111  git show
+ 1112  git status
+ 1113  clear
+ 1114  git checkout cabecera
+ 1115  git status
+ 1116  google-chrome-stable index.html
+ 1117  git status
+ 1118  git add index.html
+ 1119  git commit -m "estructura inicial"
+ 1120  git status
+ 1121  git show
+ 1122  git log
+ 1123  git checkout master
+ 1124  git log
+ 1125  git checkout cabecera
+ 1126  git checkout master
+ 1127  git status
+ 1128  git log
+ 1129  git checkout cabecera
+ 1130  git log
+ 1131  clear
+ 1132  sudo apt upgrade
+ 1133  Sudo apt update
+ 1134  sudo apt  update
+ 1135  clear
+ 1136  cd proyecto1
+ 1137  git init
+ 1138  git status
+ 1139  git log
+ 1140  clear
+ 1141  code .
+ 1142  git branch
+ 1143  git checkout master
+ 1144  git merge cabecera
+ 1145  git log
+ 1146  google-chrome-stable index.html
+ 1147  clear
+ 1148  pwd
+ 1149  ls
+ 1150  git log
+ 1151  clear
+ 1152  cd ~
+ 1153  git config
+ 1154  git config -l
+ 1155  clear
+ 1156  ssh-keygen -t rsa -b 4096 -C "anfego13@gmail.com"
+ 1157  ls
+ 1158  cd ..
+ 1159  ls
+ 1160  ls -a
+ 1161  cd anfego13
+ 1162  ls -a
+ 1163  cd .ssh
+ 1164  ls
+ 1165  id_rsa
+ 1166  code id_rsa
+ 1167  code id_rsa.pub
+ 1168  car id_rsa.pub
+ 1169  cat id_rsa.pub
+ 1170  eval $(ssh-agent -s)
+ 1171  ~
+ 1172  ls -al
+ 1173  cd ~
+ 1174  ssh-add ~/.ssh/id_rsa
+ 1175  cd proyecto1
+ 1176  ls
+ 1177  git log
+ 1178  clear
+ 1179  git remote add origin https://github.com/LordFarquad98/Hyperblog.git
+ 1180  git remote
+ 1181  git remote -v
+ 1182  ls -al
+ 1183  git push origin master 
+ 1184  git push origin master
+ 1185  git push origin main
+ 1186  git push origin master
+ 1187  git pull origin master
+ 1188  git pull origin master --allow-unrelated-histories
+ 1189  fg
+ 1190  git pull origin master --allow-unrelated-histories
+ 1191  git push origin master
+ 1192  git pull origin master
+ 1193  code .
+ 1194  git log
+ 1195  code .
+ 1196  git pull 
+ 1197  git status
+ 1198  git pull origin master
+ 1199  git pull
+ 1200  git pull origin master
+ 1201  git commit -am " cambié la versión del titulo"
+ 1202  git pull origin master
+ 1203  git push origin master
+ 1204  git og
+ 1205  git l og
+ 1206  git log
+ 1207  git log -all -graph
+ 1208  git log --all --graph --description
+ 1209  git log --all --graph --decorate --oneline
+ 1210  alias adc git log --all --graph --decorate --oneline
+ 1211  adc
+ 1212  alias adc = "git log --all --graph --decorate --oneline"
+ 1213  adc
+ 1214  alias adc="git log --all --graph --decorate --oneline"
+ 1215  adc
+ 1216  git -a v0.1 -m "Resultados de las primeras clases del curos" fa0a091
+ 1217  git tag -a v0.1 -m "Resultados de las primeras clases del curos" fa0a091
+ 1218  git show-ref --tags
+ 1219  git status
+ 1220  git push origin master
+ 1221  git pull origin master
+ 1222  git push origin master
+ 1223  git push origin --tags
+ 1224  sudo apt update
+ 1225  sudo apt upgrade
+ 1226  clear
+ 1227  cd proyecto1
+ 1228  git init
+ 1229  git checkout cabecera
+ 1230  adc
+ 1231  alias adc
+ 1232  git show-branch
+ 1233  git show-branch --all
+ 1234  clear
+ 1235  gitk
+ 1236  sudo apt install gitk
+ 1237  gitk
+ 1238  git pull origin master
+ 1239  git checkout cabecera
+ 1240  git push origin cabecera
+ 1241  git checkout master
+ 1242  git branch header
+ 1243  git branch footer
+ 1244  git pull origin master
+ 1245  git push origin header footer
+ 1246  clear
+ 1247  ls
+ 1248  code .
+ 1249  git add .
+ 1250  git commit -m "anita empieza a hacer cosas"
+ 1251  git config
+ 1252  git config --global
+ 1253  clear
+ 1254  git config --global
+ 1255  clear
+ 1256  git push origin master
+ 1257  git user
+ 1258  git -m
+ 1259  git m
+ 1260  manual git
+ 1261  man git
+ 1262  git --help
+ 1263  clear
+ 1264  git config --global credential.helper store
+ 1265  git push origin master
+ 1266  ls
+ 1267  mkdir imagenes
+ 1268  google-chrome-sable
+ 1269  google-chrome-stable
+ 1270  git checkout header
+ 1271  git log -a
+ 1272  ls
+ 1273  cd imagenes
+ 1274  ls
+ 1275  mv ilustracion-cabeza-dragon-rojo_113398-564.avif dragon.avif
+ 1276  cd ..
+ 1277  git add imagenes/dragon.avif
+ 1278  git status
+ 1279  git commit -am "icono del header"
+ 1280  git pull origin header 
+ 1281  git push origin header
+ 1282  clear
+ 1283  cd proyecto1
+ 1284  git init
+ 1285  sudo apt update 
+ 1286  sudo apt upgrade
+ 1287  clear
+ 1288  git pull origin master
+ 1289  git branch fix-typo
+ 1290  git branch
+ 1291  git checkout fix-typo
+ 1292  code .
+ 1293  git diff
+ 1294  git push fix-typo
+ 1295  git push origin fix-typo
+ 1296  git commit -am "correción de errores de escritura"
+ 1297  git status
+ 1298  git push origin fix-typo
+ 1299  git pull origin fix-typo
+ 1300  git checkout master
+ 1301  git pull origin master
+ 1302  git log
+ 1303  clear
+ 1304  sudo apt upgrade
+ 1305  sudo apt update
+ 1306  sudo apt upgrade
+ 1307  clear
+ 1308  ls
+ 1309  cd PRACTICA
+ 1310  ls
+ 1311  code .
+ 1312  ls
+ 1313  cd repaso_clase1y2/
+ 1314  cd interfaces_de_usuario/
+ 1315  mv repaso.txt repaso1.txt
+ 1316  clear
+ 1317  history
+ 1318  clear
+ 1319  history > comandos.txt
+ 1320  ls
+ 1321  cler
+ 1322  clear
+ 1323  ls
+ 1324  cd
+ 1325  cd ~
+ 1326  ls
+ 1327  cd PRACTICA/
+ 1328  ls
+ 1329  mkdir Películas
+ 1330  cd Películas/
+ 1331  cd ..
+ 1332  rm -r Películas/
+ 1333  mkdir Películas | mkdir Infantiles Accion Terror Comedia Romanticas
+ 1334  ls
+ 1335  rm -r Accion/ Infantiles/ Romanticas/ Comedia/ Terror/
+ 1336  ls
+ 1337  cd Películas/
+ 1338  mkdir Infantiles Accion Terror Comedia Romanticas
+ 1339  cd Infantiles/
+ 1340  ls
+ 1341  touch Intenzamente.txt && touch "El juego del miedo.xls" && touch "Rapido y furioso.pdf" && touch Titanic.jpg
+ 1342  ls
+ 1343  cd ..
+ 1344  cd Accion/
+ 1345  touch "smoot criminal.txt" "Diario de una pasion.js" "El hexorcista.xls" "Cars,jpg"
+ 1346  ls
+ 1347  cd ..
+ 1348  cd Terror/
+ 1349  touch "La dama y el bagavundo.png" "Yo antes de ti.xls" "Que paso ayer.pdf" "We will rock you.js"
+ 1350  ls
+ 1351  cd ..
+ 1352  cd Comedia/
+ 1353  touch madagaskar.js "Orgullo y prejuicio.txt" IT.xls "Mision imposible.png"
+ 1354  ls
+ 1355  cd ..
+ 1356  cd Romanticas/
+ 1357  touch Pocahontas.jpg Anabelle,js "Los vengadores.js" "La mascara.js"
+ 1358  ls
+ 1359  cd *
+ 1360  cd ~
+ 1361  ls
+ 1362  mv PRACTICA DH
+ 1363  ls
+ 1364  cd DH
+ 1365  cd Películas/
+ 1366  ls
+ 1367  ls .R
+ 1368  ls -R
+ 1369  cd ..
+ 1370  mkdir Romanticas/Prueba
+ 1371  ls
+ 1372  mkdir Películas/Romanticas/Prueba
+ 1373  cd Películas/Romanticas/
+ 1374  ls
+ 1375  rwd
+ 1376  rdw
+ 1377  pwd
+ 1378  mkdir /home/anfego13/DH/Películas/Accion/Prueba2
+ 1379  cd /home/anfego13/DH/Películas/Accion/
+ 1380  ls
+ 1381  cd ..
+ 1382  ls
+ 1383  ls -R
+ 1384  mv Accion/Cars,jpg Accion/Cars.jpg
+ 1385  ls
+ 1386  ls -R
+ 1387  mv Infantiles/Rapido\ y\ furioso.pdf Accion/ 
+ 1388  ls -R
+ 1389  mv Romanticas/Los\ vengadores.js  Accion/ && mv Comedia/Mision\ imposible.png  Accion/ 
+ 1390  ls -R
+ 1391  mv Accion/Cars.jpg Infantiles/ && mv Comedia/madagaskar.js Infantiles/ && mv Terror/La\ dama\ y\ el\ bagavundo.png Infantiles/ && mv Romanticas/Pocahontas.jpg Infantiles/
+ 1392  ls -R
+ 1393  mv Terror/Que\ paso\ ayer.pdf  Comedia/ && mv Romanticas/La\ mascara.js  Comedia/
+ 1394  ls -R
+ 1395  mv Terror/Yo\ antes\ de\ ti.xls  Romanticas/ && mv Infantiles/Titanic.jpg  Romanticas/ && mv Accion/Diario\ de\ una\ pasion.js  Romanticas/ && mv Comedia/Orgullo\ y\ prejuicio.txt Romanticas/
+ 1396  ls -R
+ 1397  mv Romanticas/Anabelle,js Anabelle.js
+ 1398  ls -R
+ 1399  mv Accion/El\ hexorcista.xls Terror/ && mv Infantiles/El\ juego\ del\ miedo.xls Terror/ && mv Comedia/IT.xls Terror/
+ 1400  ls -R
+ 1401  mv Anabelle.js Terror/
+ 1402  ls -R
+ 1403  cd ..
+ 1404  mv Películas/Infantiles/Intenzamente.txt  Películas/Infantiles/Intensamente.txt
+ 1405  ls -R
+ 1406  mv Películas/Infantiles/La\ dama\ y\ el\ bagavundo.png  Películas/Infantiles/La\ dama\ y\ el\ vagabundo.png
+ 1407  ls -R
+ 1408  mv Películas/Terror/El\ hexorcista.xls Películas/Terror/El\ exorcista.xls
+ 1409  mv Películas/Infantiles/madagaskar.js Películas/Infantiles/Madagascar.js
+ 1410  rm Películas/Accion/smoot\ criminal.txt Películas/Terror/We\ will\ rock\ you.js 
+ 1411  cd Películas/
+ 1412  ls -R
+ 1413  cd ..
+ 1414  touch Películas/Accion/Prueba2/noBorrar.js
+ 1415  ls -R
+ 1416  cd Películas/
+ 1417  ls -R
+ 1418  cd ..
+ 1419  cd Películas/
+ 1420  mv Accion/Prueba2/noBorrar.js Romanticas/Prueba/
+ 1421  ls -R
+ 1422  cd ..
+ 1423  touch camada2.txt
+ 1424  cd Películas/
+ 1425  mv Terror/IT.xls Infantiles/
+ 1426  rm ../camada2.txt
+ 1427  cd ..
+ 1428  ls
+ 1429  cd Películas/
+ 1430  rm -r Romanticas/Prueba
+ 1431  ls -R
+ 1432  history > comandos.txt
+ 1433  ls
+ 1434  cat comandos.txt 
+ 1435  ls -R
+ 1436  code .
+ 1437  ls
+ 1438  cd DH
+ 1439  ls
+ 1440  cd informatica/
+ 1441  ls
+ 1442  git init
+ 1443  git show
+ 1444  code .
+ 1445  cd ..
+ 1446  rm -r informatica
+ 1447  ls
+ 1448  mkdir informatica
+ 1449  cd informatica/
+ 1450  touch script.js index.html
+ 1451  git show
+ 1452  git status
+ 1453  ls
+ 1454  git add.
+ 1455  git add .
+ 1456  git show
+ 1457  git status
+ 1458  clear
+ 1459  ls
+ 1460  cd DH
+ 1461  clear
+ 1462  mkdir informes
+ 1463  cd inform
+ 1464  cd informes
+ 1465  ls
+ 1466  cd ..
+ 1467  ls
+ 1468  rm -rf informes
+ 1469  clear
+ 1470  mkdir informes
+ 1471  cd informes
+ 1472  touch informeAnual.xls
+ 1473  ls
+ 1474  clear
+ 1475  cd ..
+ 1476  mkdir auditoria
+ 1477  touch auditoria.xls
+ 1478  touch reporteConsolidado.xls
+ 1479  ls
+ 1480  clear
+ 1481  mv auditoria.xls auditoria/
+ 1482  cd auditoria/
+ 1483  ls
+ 1484  clear
+ 1485  git --version
+ 1486  git init
+ 1487  ls -a
+ 1488  rm -rf .git
+ 1489  ls -a
+ 1490  cd ..
+ 1491  mkdir prueba
+ 1492  cd prueba/
+ 1493  git init
+ 1494  touch app.js
+ 1495  git status
+ 1496  git add app.js 
+ 1497  git status
+ 1498  cd ..
+ 1499  rm -rf 
+ 1500  ls 
+ 1501  rm -rf informes prueba repaso_clase1y2/ auditoria/ informatica/ Películas/
+ 1502  ls
+ 1503  rm reporteConsolidado.xls 
+ 1504  ls
+ 1505  rm -rf Ejercicio/
+ 1506  mkdir mercadoAbierto
+ 1507  cd mercadoAbierto/
+ 1508  git init
+ 1509  touch producto.js
+ 1510  git status
+ 1511  git add producto.js 
+ 1512  git status
+ 1513  git commit -m "mi primer commit"
+ 1514  git status
+ 1515  cd ..
+ 1516  mkdir prueba
+ 1517  git init
+ 1518  git clone https://github.com/LordFarquad98/prueba.git
+ 1519  git clone git@github.com:LordFarquad98/prueba.git
+ 1520  cd ../home/anfego13/.ssh/id_rsa
+ 1521  cd home/anfego13/.ssh/id_rsa
+ 1522  cd home
+ 1523  cd ~
+ 1524  cd 
+ 1525  ls
+ 1526  cd ..
+ 1527  ls
+ 1528  cd anfego13/
+ 1529  ls -l
+ 1530  ls -a
+ 1531  ls -al
+ 1532  clear
+ 1533  ls -la
+ 1534  clear
+ 1535  ls -l
+ 1536  ls -a
+ 1537  cd .ssh
+ 1538  ls
+ 1539  cat id_rsa
+ 1540  cd ..
+ 1541  ls
+ 1542  cd DH
+ 1543  ls
+ 1544  cd prueba/
+ 1545  git init
+ 1546  git clone git@github.com:LordFarquad98/prueba.git
+ 1547  cd ..
+ 1548  ls
+ 1549  cd ..
+ 1550  ls -l
+ 1551  cd anfego13/
+ 1552  ls -l
+ 1553  ls -a
+ 1554  cd .ssh
+ 1555  ls -a
+ 1556  touch id_rsa
+ 1557  cat id_rsa
+ 1558  ls 
+ 1559  ls -a
+ 1560  cat id_rsa > touch ssh.txt
+ 1561  ls -a
+ 1562  cd ..
+ 1563  ls -a
+ 1564  rm -rf ssh
+ 1565  ls -a
+ 1566  rm -rf .ssh
+ 1567  ls -a
+ 1568  ssh-keygen -t rsa -b 4096
+ 1569  ls -a
+ 1570  cd .ssh
+ 1571  ls -a
+ 1572  cat id_rsa.pub
+ 1573  cd ..
+ 1574  ls 
+ 1575  cd DH
+ 1576  ls 
+ 1577  cd prueba/
+ 1578  ls -a
+ 1579  rm -rf .git
+ 1580  git init
+ 1581  git clone git@github.com:LordFarquad98/prueba.git
+ 1582  ls
+ 1583  cd prueba/
+ 1584  touch app.js
+ 1585  git status
+ 1586  git add app.js 
+ 1587  git status
+ 1588  git commit -m "mi primer commit"
+ 1589  git status
+ 1590  git push origin master
+ 1591  git status
+ 1592  clear
+ 1593  ls
+ 1594  cd DH
+ 1595  mkdir Clase5
+ 1596  cd Clase5
+ 1597  touch app.js index.html styles.css
+ 1598  code .
+ 1599  cd ..
+ 1600  ls
+ 1601  mkdir Mochilla_GomezFuentes_AndresFelipe
+ 1602  cd Mochilla_GomezFuentes_AndresFelipe/
+ 1603  code .
+ 1604  ls
+ 1605  cd DH
+ 1606  ls
+ 1607  cd FrontEnd
+ 1608  mkdir CARTAS
+ 1609  cd Cartas
+ 1610  cd CARTAS/
+ 1611  cd ..
+ 1612  ls -a
+ 1613  rm -rf .git
+ 1614  cd CARTAS/
+ 1615  mkdir CSS HTML images
+ 1616  cd HTML/
+ 1617  touch html.index
+ 1618  cd ..
+ 1619  git init
+ 1620  code .
+ 1621  cd HTML/
+ 1622  touch index.html
+ 1623  cd ..
+ 1624  ls
+ 1625  cd HTML/
+ 1626  ls
+ 1627  cat cards.html 
+ 1628  cd DH
+ 1629  ls
+ 1630  cd FrontEnd/
+ 1631  ls
+ 1632  cd CARTAS/
+ 1633  ls .a
+ 1634  ls -a
+ 1635  cd html
+ 1636  code .
+ 1637  cd DH
+ 1638  ls
+ 1639  cd FrontEnd/
+ 1640  cd CARTAS/
+ 1641  code .
+ 1642  pwd
+ 1643  ls -R
+ 1644  cd proyecto1/
+ 1645  pwd
+ 1646  sudo apt update
+ 1647  sudo apt upgrade
+ 1648  git status
+ 1649  git add .
+ 1650  git commit -m "commit 03 de AndresFGomezF"
+ 1651  git push origin feature02
+ 1652  clear
+ 1653  git checkout master
+ 1654  git branch
+ 1655  ls
+ 1656  mv comandos.txt comandosUtilzados.txt
+ 1657  history > comandosUtilzados.txt 
