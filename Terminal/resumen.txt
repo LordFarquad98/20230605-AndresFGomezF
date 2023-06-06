@@ -1,0 +1,8 @@
+git push origin master
+git pull origin master
+git commit -m "mi commit"
+git status
+git checkout "nombre de la rama"
+cd ..
+ls -a
+rm -rf 
